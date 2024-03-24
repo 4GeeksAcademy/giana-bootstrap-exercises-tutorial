@@ -21,6 +21,8 @@ Hi! I'm Alejandro Sanchez @alesanchezr, I'm thrilled to have you here! 🎉 😂
 
 5. Learn the most popular Bootstrap tricks.
 
+6. Boostrap being WAY easier than CSS to use!
+
 <!-- hide -->
 #### Before we start... other related tutorials
 <ol>
